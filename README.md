@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Shulga ===================================================================================================================================  
 * 🌍  I'm based in Kyiv
-* * ✉️  You can contact me at [hajey0@gmail.com](mailto:hajey0@gmail.com)
+* ✉️  You can contact me at [hajey0@gmail.com](mailto:hajey0@gmail.com)
 
 ### Skills  
 
